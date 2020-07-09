@@ -2,7 +2,7 @@
 #coding:utf8
 
 import tkinter
-
+yiyaxiong
 ceshi zhege shisha
 kjkjkjljkljljljlkjljljllljljk
 top = tkinter.Tk()
